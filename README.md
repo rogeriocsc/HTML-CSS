@@ -2,7 +2,7 @@ Sobre
 ___
 Repositório HTML e CSS<br>
 <br>
- Repositório de Html e CSS
+
 * [x] Meu primeiro Exercício
 * [x] Favicon
 * [x] Hierarquia de Títulos
