@@ -14,4 +14,4 @@ Repositório HTML e CSS<br>
 * [x] Estilos Inline
 * [x] Estilos Locais / Internos
 * [x] Estilos Externos
-
+* [x] Cores

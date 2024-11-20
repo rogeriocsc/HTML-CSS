@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Representação por nomes */
+h2 {
+    color: white;
+    background-color: red;
+}
+
+/* Representação por Codigos Hexadecimais */
+p {
+    color: #ffffff;
+    background-color: #0202e7;
+}
+
+/* Representação por rgb(0, 0, 0), rgba(0, 0, 0, alpha) */
+h3 {
+    background-color: rgb(25, 25, 114); 
+    color: rgb(238, 237, 237);
+}
+
+/* Representação por hsl(0, %, %)*/
+h4 {
+    background-color: hsl(240, 91%, 36%); 
+    color: hsl(0, 3%, 86%); 
+}
+
+.cores {
+    background-image: linear-gradient(to bottom, 
+    red, rgb(126, 4, 4));
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.cores h1 {
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
