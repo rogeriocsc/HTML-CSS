@@ -18,6 +18,6 @@ Repositório HTML e CSS<br>
 
 Bibliografia <br>
 Curso livre Curso em vídeo. <br>
-Curso livre Prime cursos <br><br>
+Curso livre Prime Cursos <br><br>
 Documentação: https://developer.mozilla.org/pt-BR/docs/Web#documenta%C3%A7%C3%A3o_para_desenvolvedores_web
 
