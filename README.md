@@ -15,3 +15,8 @@ Repositório HTML e CSS<br>
 * [x] Estilos Locais / Internos
 * [x] Estilos Externos
 * [x] Cores em CSS
+
+Bibliografia <br>
+curso livre Curso em vídeo. <br>
+Documentação: https://developer.mozilla.org/pt-BR/docs/Web#documenta%C3%A7%C3%A3o_para_desenvolvedores_web
+
