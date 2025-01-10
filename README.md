@@ -4,6 +4,9 @@ Repositório HTML e CSS<br>
 <br>
 
 * [x] Introdução
+* [x] Títulos
+* [x] Parágrafo
+* [x] Tag IMG
 
 Bibliografia <br>
 Curso Gratuito Curso em vídeo. <br>
