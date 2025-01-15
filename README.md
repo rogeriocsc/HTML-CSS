@@ -7,6 +7,9 @@ Repositório HTML e CSS<br>
 * [x] Títulos
 * [x] Parágrafo
 * [x] Tag IMG
+* [x] Favicon
+* [x] Arquivo Externo CSS
+* [x] Utilizando o Google Fonts
 
 Bibliografia <br>
 Curso Gratuito Curso em vídeo. <br>
