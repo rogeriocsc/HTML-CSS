@@ -1,0 +1,13 @@
+.elemento {
+    width: 140px;
+    height: 140px;
+    background-color: red;
+    margin: 4px;
+}
+
+#quadrado {
+    width: 140px;
+    height: 140px;
+    background-color: yellow;
+    margin: 4px;
+}

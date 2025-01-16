@@ -10,6 +10,8 @@ Repositório HTML e CSS<br>
 * [x] Favicon
 * [x] Arquivo Externo CSS
 * [x] Utilizando o Google Fonts
+* [x] Cores CSS
+* [x] Class e ID
 
 Bibliografia <br>
 Curso Gratuito Curso em vídeo. <br>
