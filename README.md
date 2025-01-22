@@ -12,6 +12,8 @@ Repositório HTML e CSS<br>
 * [x] Utilizando o Google Fonts
 * [x] Cores CSS
 * [x] Class e ID
+* [x] Trabalhando com Listas
+* [x] Trabalhando com links
 
 Bibliografia <br>
 Curso Gratuito Curso em vídeo. <br>
