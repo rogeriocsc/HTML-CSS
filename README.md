@@ -14,6 +14,7 @@ Repositório HTML e CSS<br>
 * [x] Class e ID
 * [x] Trabalhando com Listas
 * [x] Trabalhando com links
+* [x] Cor Linear Gradiente
 
 Bibliografia <br>
 Curso Gratuito Curso em vídeo. <br>

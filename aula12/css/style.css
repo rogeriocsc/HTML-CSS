@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* paleta de cores 
+cor1 - #00CCBF
+cor2 - #582a77 */
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to top, #00CCBF, #582a77);
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-family: sans-serif;
+}
