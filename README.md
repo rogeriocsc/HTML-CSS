@@ -15,6 +15,7 @@ Repositório HTML e CSS<br>
 * [x] Trabalhando com Listas
 * [x] Trabalhando com links
 * [x] Cor Linear Gradiente
+* [x] Propriedade float
 
 Bibliografia <br>
 Curso Gratuito Curso em vídeo. <br>
