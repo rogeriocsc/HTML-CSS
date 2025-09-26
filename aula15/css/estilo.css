@@ -1,0 +1,20 @@
+body {
+    background-color: #038C3E;
+}
+
+section {
+    max-width: 800px;
+    height: 450px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+div.imagem-fundo {
+    height: 450px;
+    background-image: url(../imagem/img-01.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
