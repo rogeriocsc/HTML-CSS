@@ -18,6 +18,8 @@ Repositório HTML e CSS<br>
 * [x] Propriedade Float CSS
 * [x] Tabela Html CSS 
 * [x] Imagem de Fundo
+* [x] Position Relative e Position Absolute
+* [x] Centralizar um elemento com position absolute
 
 
 Bibliografia <br>
