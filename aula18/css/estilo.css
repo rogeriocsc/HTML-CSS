@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #3B8C66, #60BF81);
+}
+
+h2, label, input, button {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+main {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+section {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 74px;
+    background-color: white;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
+}
+
+section > h2 {
+   color: #D92525;
+}
+
+div.campos > label {
+    display: block;
+    margin: 5px 0px;
+    color: #0B2559;
+}
+
+.campos input[type="text"], .campos input[type="email"] {
+    width: 100%;
+    margin-bottom: 8px;
+    padding: 8px;
+    border: 2px solid #034159;
+    outline: none;
+    border-radius: 8px;
+} 
+
+.campos input:focus-within {
+    background-color: mintcream;
+}
+
+button {
+    margin: 14px auto;
+    display: block;
+    width: 120px;
+    padding: 10px;
+    font-size: 1em;
+    background-color: #23606E;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #286e7e;
+}

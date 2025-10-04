@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    <link rel="shortcut icon" href="imagens/ico-favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilo.css">
+    <title>Cadastro de Dados</title>
+</head>
+<body>
+    <main>
+        <section>
+            <h2>Cadastro</h2>
+            <span class="material-symbols-outlined">check_box</span> 
+            <form action="cad.php" method="get" autocomplete="on">
+                <div class="campos">
+                    <label for="fnome">Nome</label> 
+                    <input type="text" name="nome" id="fnome" placeholder="Informe seu Nome" autocomplete="name" required>
+                </div>
+                <div class="campos">
+                    <label for="fmail">E-mail</label> 
+                    <input type="email" name="email" id="fmail" placeholder="Informe seu E-mail" maxlength="30" autocomplete="email" required>
+                </div>
+                <div class="campos">
+                    <label for="fdata">Data Mês</label>
+                    <input type="month" name="data" id="fdata" value="2025-10" required>
+                </div>
+                <button>Enviar</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>
