@@ -22,6 +22,7 @@ Repositório HTML e CSS<br>
 * [x] Centralizar um elemento com position absolute
 * [x] Formulário HTML e CSS 
 * [x] Efeito Parallax
+* [x] Margin e Padding
 
 Bibliografia <br>
 Curso Gratuito Curso em vídeo. <br>
