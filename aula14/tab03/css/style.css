@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: #60BF81;
+}
+
+/* paleta de cores 
+cor1 - #00c5b8,
+cor2 - #562974 */
+
+body {
+    background-image: linear-gradient(to top, #00c5b8, #562974);
+}
+
+main {
+    width: 99vw;
+    height: 91vh;
+}
+
+section {
+    max-width: 950px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+table {
+    width: 900px;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 10px;
+    border-bottom: 1px solid white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.05em;
+    color: white;
+}
